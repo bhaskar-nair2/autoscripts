@@ -1,0 +1,3 @@
+mkdir: cannot create directory '/.local': Permission denied
+touch: cannot touch '/.local/share/applications/mimeapps.list': No such file or directory
+[8627:8627:0414/090615.030996:ERROR:browser_main_loop.cc(1485)] Unable to open X display.
