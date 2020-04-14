@@ -11,6 +11,7 @@ do
   echo 'Starting App'
   cd ~/Documents/arrow-clothing/arrow_app
   code .
+  adb reverse tcp:3000 tcp:3000
   break
  else
   echo 'Wrong Input'
@@ -19,5 +20,5 @@ do
 done
 
 cd ~/autoscripts
-gnome-terminal -e ./baseStart.sh &
-gnome-terminal -e ./arrowBack.sh
+bash -c ./baseStart.sh &
+bash -c ./arrowBack.sh
