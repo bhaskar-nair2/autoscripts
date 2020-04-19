@@ -5,3 +5,76 @@ mkdir: cannot create directory '/.local': Permission denied
 touch: cannot touch '/.local/share/applications/mimeapps.list': No such file or directory
 [10009:10009:0414/194125.593593:ERROR:browser_main_loop.cc(1485)] Unable to open X display.
 Opening in existing browser session.
+Opening in existing browser session.
+Opening in existing browser session.
+[2606:2606:0415/214005.957629:ERROR:process_singleton_posix.cc(280)] Failed to create /home/bhaskar/.config/google-chrome/SingletonLock: File exists (17)
+Opening in existing browser session.
+[4583:4583:0416/093247.599436:ERROR:process_singleton_posix.cc(280)] Failed to create /home/bhaskar/.config/google-chrome/SingletonLock: File exists (17)
+Opening in existing browser session.
+[3512:3512:0416/203707.130213:ERROR:process_singleton_posix.cc(280)] Failed to create /home/bhaskar/.config/google-chrome/SingletonLock: File exists (17)
+Opening in existing browser session.
+[4430:4430:0418/143441.551942:ERROR:browser_switcher_service.cc(238)] XXX Init()
+Fontconfig error: Cannot load default config file: No such file: (null)
+[4430:4667:0418/180219.072856:FATAL:bus.cc(1220)] D-Bus connection was disconnected. Aborting.
+[3192:3344:0419/054333.804841:ERROR:database.cc(1584)] History sqlite error 5, errno 0: database is locked, sql: COMMIT
+[3192:3192:0419/054334.057093:ERROR:browser_switcher_service.cc(238)] XXX Init()
+Fontconfig error: Cannot load default config file: No such file: (null)
+[3192:3192:0419/054334.549670:ERROR:typed_url_sync_bridge.cc(738)] Typed URLs datatype error was encountered: Failed to load TypedURLSyncMetadataDatabase.
+[3192:3383:0419/054335.896740:ERROR:database.cc(1584)] Web sqlite error 5, errno 0: database is locked, sql: COMMIT
+[3192:3426:0419/054335.896748:ERROR:database.cc(1584)] Passwords sqlite error 5, errno 0: database is locked, sql: COMMIT
+[3192:3383:0419/054335.896781:ERROR:database.cc(1584)] Web sqlite error 1, errno 0: cannot start a transaction within a transaction, sql: BEGIN TRANSACTION
+[3192:3383:0419/054335.896844:ERROR:database.cc(1584)] Web sqlite error 1, errno 0: cannot start a transaction within a transaction, sql: BEGIN TRANSACTION
+[3192:3383:0419/054335.896986:ERROR:database.cc(1584)] Web sqlite error 1, errno 0: cannot start a transaction within a transaction, sql: BEGIN TRANSACTION
+[3192:3371:0419/054337.899902:ERROR:backend_impl.cc(1053)] Critical error found -8
+[3192:3383:0419/054339.153752:ERROR:database.cc(1584)] Web sqlite error 1, errno 0: cannot start a transaction within a transaction, sql: BEGIN TRANSACTION
+[3192:3453:0419/054347.744335:ERROR:database.cc(1584)] Passwords sqlite error 1, errno 0: cannot start a transaction within a transaction, sql: BEGIN TRANSACTION
+[3192:3383:0419/054347.744422:ERROR:database.cc(1584)] Web sqlite error 1, errno 0: cannot start a transaction within a transaction, sql: BEGIN TRANSACTION
+[3192:3383:0419/054347.744493:ERROR:database.cc(1584)] Web sqlite error 1, errno 0: cannot start a transaction within a transaction, sql: BEGIN TRANSACTION
+[3192:3383:0419/054347.744623:ERROR:database.cc(1584)] Web sqlite error 1, errno 0: cannot start a transaction within a transaction, sql: BEGIN TRANSACTION
+[3192:3423:0419/054405.527024:ERROR:database.cc(1584)] Quota sqlite error 5, errno 0: database is locked, sql: COMMIT
+[3192:3423:0419/054405.527073:ERROR:database.cc(1584)] Quota sqlite error 1, errno 0: cannot start a transaction within a transaction, sql: BEGIN TRANSACTION
+[3192:3295:0419/054450.224452:ERROR:database.cc(1584)] Quota sqlite error 1, errno 0: cannot start a transaction within a transaction, sql: BEGIN TRANSACTION
+[3192:3295:0419/054519.622431:ERROR:database.cc(1584)] Passwords sqlite error 1, errno 0: cannot start a transaction within a transaction, sql: BEGIN TRANSACTION
+[3192:3383:0419/054519.622549:ERROR:database.cc(1584)] Web sqlite error 1, errno 0: cannot start a transaction within a transaction, sql: BEGIN TRANSACTION
+[3192:3383:0419/054519.622613:ERROR:database.cc(1584)] Web sqlite error 1, errno 0: cannot start a transaction within a transaction, sql: BEGIN TRANSACTION
+[3192:3383:0419/054519.622710:ERROR:database.cc(1584)] Web sqlite error 1, errno 0: cannot start a transaction within a transaction, sql: BEGIN TRANSACTION
+[3192:3295:0419/054611.480732:ERROR:database.cc(1584)] Shortcuts sqlite error 5, errno 0: database is locked, sql: INSERT INTO omni_box_shortcuts (id, text, fill_into_edit, url, document_type, contents, contents_class, description, description_class, transition, type, keyword, last_access_time, number_of_hits) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+Fontconfig error: Cannot load default config file: No such file: (null)
+[3192:3295:0419/054625.143397:ERROR:database.cc(1584)] Quota sqlite error 1, errno 0: cannot start a transaction within a transaction, sql: BEGIN TRANSACTION
+[3192:9660:0419/055125.143410:ERROR:database.cc(1584)] Quota sqlite error 1, errno 0: cannot start a transaction within a transaction, sql: BEGIN TRANSACTION
+[3192:10275:0419/055625.159389:ERROR:database.cc(1584)] Quota sqlite error 1, errno 0: cannot start a transaction within a transaction, sql: BEGIN TRANSACTION
+[3192:11506:0419/055848.188781:ERROR:database.cc(1584)] Passwords sqlite error 1, errno 0: cannot start a transaction within a transaction, sql: BEGIN TRANSACTION
+[3192:3383:0419/055848.188887:ERROR:database.cc(1584)] Web sqlite error 1, errno 0: cannot start a transaction within a transaction, sql: BEGIN TRANSACTION
+[3192:3383:0419/055848.188947:ERROR:database.cc(1584)] Web sqlite error 1, errno 0: cannot start a transaction within a transaction, sql: BEGIN TRANSACTION
+[3192:3383:0419/055848.189182:ERROR:database.cc(1584)] Web sqlite error 1, errno 0: cannot start a transaction within a transaction, sql: BEGIN TRANSACTION
+[3192:11702:0419/055922.938690:ERROR:database.cc(1584)] Shortcuts sqlite error 5, errno 0: database is locked, sql: INSERT INTO omni_box_shortcuts (id, text, fill_into_edit, url, document_type, contents, contents_class, description, description_class, transition, type, keyword, last_access_time, number_of_hits) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+[3192:11699:0419/060125.139401:ERROR:database.cc(1584)] Quota sqlite error 1, errno 0: cannot start a transaction within a transaction, sql: BEGIN TRANSACTION
+[3192:12370:0419/060625.139390:ERROR:database.cc(1584)] Quota sqlite error 1, errno 0: cannot start a transaction within a transaction, sql: BEGIN TRANSACTION
+[3192:12370:0419/061125.151483:ERROR:database.cc(1584)] Quota sqlite error 1, errno 0: cannot start a transaction within a transaction, sql: BEGIN TRANSACTION
+[3192:14509:0419/061625.150711:ERROR:database.cc(1584)] Quota sqlite error 1, errno 0: cannot start a transaction within a transaction, sql: BEGIN TRANSACTION
+[3192:14829:0419/062125.147378:ERROR:database.cc(1584)] Quota sqlite error 1, errno 0: cannot start a transaction within a transaction, sql: BEGIN TRANSACTION
+[3192:16337:0419/062625.155424:ERROR:database.cc(1584)] Quota sqlite error 1, errno 0: cannot start a transaction within a transaction, sql: BEGIN TRANSACTION
+[3192:3192:0419/062729.595504:ERROR:CONSOLE(38)] "Uncaught (in promise) NavigationDuplicated: Navigating to current location ("/components") is not allowed", source: chrome-extension://nhdogjmejiglipccpnnnanhbledajbpd/build/devtools.js (38)
+[3192:17302:0419/063125.143395:ERROR:database.cc(1584)] Quota sqlite error 1, errno 0: cannot start a transaction within a transaction, sql: BEGIN TRANSACTION
+[3192:17973:0419/063625.165775:ERROR:database.cc(1584)] Quota sqlite error 1, errno 0: cannot start a transaction within a transaction, sql: BEGIN TRANSACTION
+[3192:14829:0419/064125.157731:ERROR:database.cc(1584)] Quota sqlite error 1, errno 0: cannot start a transaction within a transaction, sql: BEGIN TRANSACTION
+[3192:18903:0419/064625.147540:ERROR:database.cc(1584)] Quota sqlite error 1, errno 0: cannot start a transaction within a transaction, sql: BEGIN TRANSACTION
+[3192:20881:0419/065125.174388:ERROR:database.cc(1584)] Quota sqlite error 1, errno 0: cannot start a transaction within a transaction, sql: BEGIN TRANSACTION
+[3192:21580:0419/065553.496734:ERROR:database.cc(1584)] Shortcuts sqlite error 5, errno 0: database is locked, sql: INSERT INTO omni_box_shortcuts (id, text, fill_into_edit, url, document_type, contents, contents_class, description, description_class, transition, type, keyword, last_access_time, number_of_hits) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+[3192:20724:0419/065625.137537:ERROR:database.cc(1584)] Quota sqlite error 1, errno 0: cannot start a transaction within a transaction, sql: BEGIN TRANSACTION
+[3192:22259:0419/065909.645866:ERROR:database.cc(1584)] Shortcuts sqlite error 5, errno 0: database is locked, sql: INSERT INTO omni_box_shortcuts (id, text, fill_into_edit, url, document_type, contents, contents_class, description, description_class, transition, type, keyword, last_access_time, number_of_hits) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+[3192:20724:0419/070125.143705:ERROR:database.cc(1584)] Quota sqlite error 1, errno 0: cannot start a transaction within a transaction, sql: BEGIN TRANSACTION
+[3192:23202:0419/070625.151411:ERROR:database.cc(1584)] Quota sqlite error 1, errno 0: cannot start a transaction within a transaction, sql: BEGIN TRANSACTION
+[3192:22260:0419/070637.876785:ERROR:database.cc(1584)] Shortcuts sqlite error 5, errno 0: database is locked, sql: INSERT INTO omni_box_shortcuts (id, text, fill_into_edit, url, document_type, contents, contents_class, description, description_class, transition, type, keyword, last_access_time, number_of_hits) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+[3192:23722:0419/071125.151387:ERROR:database.cc(1584)] Quota sqlite error 1, errno 0: cannot start a transaction within a transaction, sql: BEGIN TRANSACTION
+[3192:24730:0419/071625.151377:ERROR:database.cc(1584)] Quota sqlite error 1, errno 0: cannot start a transaction within a transaction, sql: BEGIN TRANSACTION
+[3192:25115:0419/072125.152349:ERROR:database.cc(1584)] Quota sqlite error 1, errno 0: cannot start a transaction within a transaction, sql: BEGIN TRANSACTION
+[3192:26578:0419/072453.448427:ERROR:database.cc(1584)] Shortcuts sqlite error 5, errno 0: database is locked, sql: UPDATE omni_box_shortcuts SET id=?, text=?, fill_into_edit=?, url=?, document_type=?, contents=?, contents_class=?, description=?, description_class=?, transition=?, type=?, keyword=?, last_access_time=?, number_of_hits=? WHERE id=?
+[3192:25945:0419/072625.155393:ERROR:database.cc(1584)] Quota sqlite error 1, errno 0: cannot start a transaction within a transaction, sql: BEGIN TRANSACTION
+[3192:27146:0419/073125.155380:ERROR:database.cc(1584)] Quota sqlite error 1, errno 0: cannot start a transaction within a transaction, sql: BEGIN TRANSACTION
+[3192:3383:0419/073300.000717:ERROR:database.cc(1584)] Web sqlite error 1, errno 0: cannot start a transaction within a transaction, sql: BEGIN TRANSACTION
+[3192:3383:0419/073359.439420:ERROR:database.cc(1584)] Web sqlite error 1, errno 0: cannot start a transaction within a transaction, sql: BEGIN TRANSACTION
+[3192:28525:0419/073625.151520:ERROR:database.cc(1584)] Quota sqlite error 1, errno 0: cannot start a transaction within a transaction, sql: BEGIN TRANSACTION
+[3192:3383:0419/073949.908432:ERROR:database.cc(1584)] Web sqlite error 1, errno 0: cannot start a transaction within a transaction, sql: BEGIN TRANSACTION
+[3192:29422:0419/074125.150751:ERROR:database.cc(1584)] Quota sqlite error 1, errno 0: cannot start a transaction within a transaction, sql: BEGIN TRANSACTION
+[3192:30159:0419/074421.742027:ERROR:database.cc(1584)] Shortcuts sqlite error 5, errno 0: database is locked, sql: UPDATE omni_box_shortcuts SET id=?, text=?, fill_into_edit=?, url=?, document_type=?, contents=?, contents_class=?, description=?, description_class=?, transition=?, type=?, keyword=?, last_access_time=?, number_of_hits=? WHERE id=?

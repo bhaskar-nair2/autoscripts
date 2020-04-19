@@ -1,7 +1,9 @@
 #/bin/sh
-while :
+x=1
+while [ $x -le 5 ]
 do
  read -p 'Work on web(1) or app(2)? ' usemod
+ x=$(( $x + 1 ))
  if [ $usemod -eq 1 ]; then
   echo 'Starting Web'
   cd ~/Documents/arrow-clothing/arrow_web
