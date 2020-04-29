@@ -78,3 +78,18 @@ Fontconfig error: Cannot load default config file: No such file: (null)
 [3192:3383:0419/073949.908432:ERROR:database.cc(1584)] Web sqlite error 1, errno 0: cannot start a transaction within a transaction, sql: BEGIN TRANSACTION
 [3192:29422:0419/074125.150751:ERROR:database.cc(1584)] Quota sqlite error 1, errno 0: cannot start a transaction within a transaction, sql: BEGIN TRANSACTION
 [3192:30159:0419/074421.742027:ERROR:database.cc(1584)] Shortcuts sqlite error 5, errno 0: database is locked, sql: UPDATE omni_box_shortcuts SET id=?, text=?, fill_into_edit=?, url=?, document_type=?, contents=?, contents_class=?, description=?, description_class=?, transition=?, type=?, keyword=?, last_access_time=?, number_of_hits=? WHERE id=?
+[3192:30896:0419/074625.183291:ERROR:database.cc(1584)] Quota sqlite error 1, errno 0: cannot start a transaction within a transaction, sql: BEGIN TRANSACTION
+[3192:3192:0419/074849.485914:ERROR:zygote_communication_linux.cc(276)] Failed to send GetTerminationStatus message to zygote
+[3192:3192:0419/074849.491422:ERROR:zygote_communication_linux.cc(276)] Failed to send GetTerminationStatus message to zygote
+[3192:3296:0419/074849.499675:ERROR:socket_stream.cc(218)] Closing stream with result -2
+[3192:3192:0419/074849.500448:ERROR:zygote_communication_linux.cc(276)] Failed to send GetTerminationStatus message to zygote
+[3192:30896:0419/074849.524379:ERROR:database.cc(1584)] Shortcuts sqlite error 5, errno 0: database is locked, sql: DELETE FROM omni_box_shortcuts WHERE url = ?
+[3192:3192:0419/074849.581008:ERROR:zygote_communication_linux.cc(276)] Failed to send GetTerminationStatus message to zygote
+[3192:3192:0419/074849.582166:ERROR:zygote_communication_linux.cc(276)] Failed to send GetTerminationStatus message to zygote
+[3192:3192:0419/074849.610667:ERROR:zygote_communication_linux.cc(276)] Failed to send GetTerminationStatus message to zygote
+[3192:3192:0419/074849.616209:ERROR:zygote_communication_linux.cc(276)] Failed to send GetTerminationStatus message to zygote
+[3192:3192:0419/074849.617879:ERROR:zygote_communication_linux.cc(276)] Failed to send GetTerminationStatus message to zygote
+[3192:28525:0419/074849.656674:ERROR:database.cc(1584)] Shortcuts sqlite error 5, errno 0: database is locked, sql: DELETE FROM omni_box_shortcuts WHERE url = ?
+[3192:3192:0419/074849.662344:ERROR:zygote_communication_linux.cc(276)] Failed to send GetTerminationStatus message to zygote
+[3192:30896:0419/074849.684907:ERROR:database.cc(1584)] Shortcuts sqlite error 5, errno 0: database is locked, sql: DELETE FROM omni_box_shortcuts WHERE url = ?
+[3192:30896:0419/074849.724528:ERROR:database.cc(1584)] Shortcuts sqlite error 5, errno 0: database is locked, sql: DELETE FROM omni_box_shortcuts WHERE url = ?

@@ -6,6 +6,8 @@ do
  x=$(( $x + 1 ))
  if [ $usemod -eq 1 ]; then
   echo 'Starting Web'
+  cd ~/autoscripts
+  bash ./arrowBack.sh
   cd ~/Documents/arrow-clothing/arrow_web
   code .
   break
@@ -21,6 +23,5 @@ do
  fi
 done
 
-cd ~/autoscripts
-bash -c ./baseStart.sh &
-bash -c ./arrowBack.sh
+cd /home/bhaskar/autoscripts/
+bash -c ./baseStart.sh
